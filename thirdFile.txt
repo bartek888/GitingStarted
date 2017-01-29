@@ -1,2 +1,2 @@
 %%% added ssh key
-feature
+conflict resolved, login as feature and git merge master
